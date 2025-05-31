@@ -27,3 +27,11 @@ Frontend: HTML5, CSS3, JavaScript, Bootstrap (or AdminLTE)
 Database: MySQL / MariaDB
 
 Libraries: jQuery, SweetAlert (for alerts), DataTables (optional for tables)
+
+![image](https://github.com/user-attachments/assets/13fb4709-2f05-4a6e-87e6-068899974011)
+
+
+![image](https://github.com/user-attachments/assets/15a0dbcc-a6d5-4199-90b0-52a826597d11)
+
+
+LIVE PREVIEW: https://gigsgalaxy.22web.org/emps/
