@@ -35,6 +35,9 @@ Libraries: jQuery, SweetAlert (for alerts), DataTables (optional for tables)
 
 
 LIVE PREVIEW: https://gigsgalaxy.22web.org/emps/
+
 DEMO CREDENTAILS:
+
 email:alice.johnson@example.com
+
 password: alice123
